@@ -1,0 +1,127 @@
+﻿  TIc_tac_toe.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(121): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(122): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(124): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(130): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(131): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(220): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(233): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(234): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(241): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(249): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(250): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(308): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(309): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(333): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(334): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(415): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(428): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(429): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(444): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(445): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(772): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(773): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(774): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(778): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\tic_tac_toe\tic_tac_toe\tic_tac_toe.cpp(779): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating code
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TIc_tac_toe.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\TESTS\TIc_tac_toe\Release\TIc_tac_toe.exe
